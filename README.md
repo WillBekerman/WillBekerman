@@ -1,4 +1,4 @@
-### Hi! I’m Will and here are some fun projects I'm currently working on:
+### Hi, I'm Will 👋! Here are some of the projects I'm currently working on:
 
 <!--
 **WillBekerman/WillBekerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
